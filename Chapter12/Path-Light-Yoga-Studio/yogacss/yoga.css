@@ -162,6 +162,20 @@ audio{
   margin: 1em;
 }
 
+section{
+   background-color: #c8ddde;
+   width: 90%;
+   padding: 1em;
+   margin-left: 0;
+   margin-right: 0;
+   margin-bottom: 1em;
+   margin-top: 1em;
+}
+
+section form{
+  padding: 0;
+}
+
 @media only screen and (max-width: 1024px){
   
   body{
